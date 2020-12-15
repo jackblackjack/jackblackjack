@@ -6,4 +6,6 @@
 
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=jackblackjack&show_icons=true&theme=radical&line_height=27&v=5" alt="Ashwani's GitHub Stats" />
+<p align="center"> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryanc55&theme=radical&layout=compact" />
+</p>
