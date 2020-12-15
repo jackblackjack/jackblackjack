@@ -4,3 +4,6 @@
 </p>
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
+
+#### Visitors counter
+<img src="https://profile-counter.glitch.me/jackblackjack/count.svg" />
