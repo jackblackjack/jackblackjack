@@ -4,6 +4,9 @@
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=jackblackjack&layout=compact" />
 </p>
 <!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
 
 #### Visitors counter
