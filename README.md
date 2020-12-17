@@ -5,7 +5,12 @@
 </p>
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 09 December, 2020 - 16 December, 2020
+
+Kotlin       1 hr 50 mins    ████████████████████▒░░░░   80.69 % 
+Ruby         10 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.32 % 
+JavaScript   8 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.35 % 
+Java         7 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.24 % 
 ```
 <!--END_SECTION:waka-->
 
