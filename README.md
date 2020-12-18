@@ -5,12 +5,12 @@
 </p>
 <!--START_SECTION:waka-->
 ```text
-Week: 09 December, 2020 - 16 December, 2020
+Week: 10 December, 2020 - 17 December, 2020
 
-Kotlin       1 hr 50 mins    ████████████████████▒░░░░   80.69 % 
-Ruby         10 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.32 % 
-JavaScript   8 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.35 % 
-Java         7 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.24 % 
+Kotlin       5 hrs 14 mins   ██████████████████████▓░░   91.23 % 
+JavaScript   10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.19 % 
+Ruby         10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.91 % 
+Java         7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.29 % 
 ```
 <!--END_SECTION:waka-->
 
