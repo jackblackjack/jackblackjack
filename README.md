@@ -15,5 +15,3 @@ Properties   8 mins          ░░░░░░░░░░░░░░░░░
 ```
 <!--END_SECTION:waka-->
 
-#### Visitors counter
-<img src="https://profile-counter.glitch.me/jackblackjack/count.svg" />
