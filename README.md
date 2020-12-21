@@ -5,7 +5,7 @@
 </p>
 <!--START_SECTION:waka-->
 ```text
-Week: 12 December, 2020 - 19 December, 2020
+Week: 13 December, 2020 - 20 December, 2020
 
 Kotlin       20 hrs 17 mins  ███████████████████████▒░   92.95 % 
 Java         37 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.83 % 
